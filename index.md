@@ -19,3 +19,5 @@ Please check out the [American Gut Project](http://americangut.org) and learn ho
 - Email: [daniel.mcdonald@colorado.edu](mailto:daniel.mcdonald@colorado.edu)
 - Twitter: [@mcdonadt](https://twitter.com/mcdonadt)
 - Google Scholar [profile](http://scholar.google.com/citations?user=RdRMK0kAAAAJ&hl=en)
+
+*Please note, this website is currently under construction and there are some issues with navigation on the pages. I apologize for this, and expect to have the issue resolved soon.*
