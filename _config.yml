@@ -8,14 +8,15 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Daniel McDonald
-tagline: wasade
-author : Daniel McDonald
-Vname : "Daniel McDonald"
-email : mcdonadt@colorado.edu
-github : wasade
-twitter : mcdonadt
-feedburner : false
+author :
+  title : Daniel McDonald
+  tagline: wasade
+  author : Daniel McDonald
+  name : "Daniel McDonald"
+  email : mcdonadt@colorado.edu
+  github : wasade
+  twitter : mcdonadt
+  feedburner : false
 
 markdown : kramdown
 
