@@ -1,7 +1,7 @@
 ---
-layout: page
-title: "Publications"
-description: ""
+layout : page
+title : "Publications"
+group : navigation
 ---
 {% include JB/setup %}
 

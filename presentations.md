@@ -1,7 +1,7 @@
 ---
-layout: page
-title: "Presentations"
-description: ""
+layout : page
+title : "Presentations"
+group : navigation
 ---
 {% include JB/setup %}
 

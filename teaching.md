@@ -1,10 +1,9 @@
 ---
-layout: page
-title: "Teaching"
-description: ""
+layout : page
+title : "Teaching"
+group : navigation
 ---
 {% include JB/setup %}
-
 
 Outreach and training in the biological sciences is critical as the volume of data available to researchers is outpacing the capabilities of existing software platforms. I'm firmly committed to education within the sciences and helping researchers get more out of their data.
 
