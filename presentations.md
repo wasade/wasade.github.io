@@ -5,6 +5,8 @@ group : navigation
 ---
 {% include JB/setup %}
 
+* Apr. 2014 - Genomes Environments and Traits Conference Labs, "The American Gut Project." Boston, MA
+
 * Nov. 2013 – BioFrontiers Science Alliance, "American Gut." Boulder, CO.
 
 * Sept. 2013 – Bioinformatics Supergroup, "The American Gut Project." Boulder, CO.
