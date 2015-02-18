@@ -18,7 +18,7 @@ parameters shape microbial assemblages.
 
 Please check out the [American Gut Project](http://americangut.org) and learn
 how to contribute your poop to science! Here's the
-[results](http://www.microbio.me/americangut/img/results/000004216.pdf) of one
+[results](http://www.microbio.me/AmericanGut/results/pdfs/000004216.pdf) of one
 of my samples taken a day after eating a pile of thai chilis on an empty
 stomach. Because, science.
 
