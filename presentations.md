@@ -5,30 +5,38 @@ group : navigation
 ---
 {% include JB/setup %}
 
-* Apr. 2014 - Genomes Environments and Traits Conference Labs, "The American Gut Project." Boston, MA
+* January 2015 - Seminar, Masaryk University, "Processing and analysis of the American Gut (invited)." Brno, Czech Republic 
 
-* Nov. 2013 – BioFrontiers Science Alliance, "American Gut." Boulder, CO.
+* January 2015 - Pacific Symposium on Biocomputing, "Including the Public in Research Projects, discussion (invited)." Kona, HI, USA 
 
-* Sept. 2013 – Bioinformatics Supergroup, "The American Gut Project." Boulder, CO.
+* November 2014 - Seminar, Institute of Systems Biology, "The American Gut (invited)." Seattle, WA, USA 
 
-* May 2013 – ASM, "Your study: the mapping file." Denver, CO.
+* October 2014 - Recent Advances in OMICS Research and Dissemination Conference of the OMICRON Project, "The American Gut (invited)." Kraków, Poland 
 
-* Mar. 2013 – TEDxPearlStreet, "The American Gut Project." Boulder, CO. [link](https://www.youtube.com/watch?v=mtGWHTux9Rc)
+* August 2014 - International Symposium on Microbial Ecology, "How full of it are you? Crowdfunding and crowdsourcing fecal sampling with American Gut." Seoul, Korea 
 
-* Feb. 2013 – Bioinformatics Supergroup, "From evolution to prediction as guided by Greengenes." Boulder, CO.
+* May 2014 - Sloan Microbiome of the Built Environment, "American Gut." Boulder, CO, USA 
 
-* Jan. 2013 – Workshop on Genomics, "Introduction to Python programming." Cesky Krumlov, Czech Republic.
+* November 2013 - BioFrontiers Science Alliance, "American Gut." Boulder, CO, USA 
 
-* Oct. 2012 – Sloan Fungal ITS meeting, "Greengenes." Boulder, CO.
+* September 2013 - Bioinformatics Supergroup, "The American Gut Project." Boulder, CO, USA 
 
-* Jun. 2012 – NESCent Next Generation Sequencing Workshop, "NESCent QIIME Tutorial." Durham, NC.
+* May 2013 - American Society for Microbiology, "Your study: the mapping file." Denver, CO, USA 
 
-* Jun. 2012 – NESCent Next Generatin Sequencing Workshop, "From taxonomy to metagenomic prediction." Durham, NC.
+* March 2013 - TEDxPearlStreet, "The American Gut Project." Boulder, CO, USA [(link)](https://www.youtube.com/watch?v=mtgwhtux9rc) 
 
-* Jul. 2011 – Workshop on Comparative Genomics, "Testing, PyCogent scripting and work with Greengenes." Fort Collins, CO.
+* February 2013 - Bioinformatics Supergroup, "From evolution to prediction as guided by Greengenes." Boulder, CO, USA 
 
-* Nov. 2010 – Singapore National University, Dept. of Statistics and Applied Probability, "PyCogent Scripting By Example, Operational Taxonomic Units and N-Level Taxonomy  Discussion of OTUs and a Project Leveraging PyCogent." Singapore.
+* January 2013 - Workshop on Genomics, "Introduction to Python programming." Český Krumlov, Czech Republic 
 
-* Mar. 2010 – Pacific Northwest National Labs (PNNL), "Adventures in Sequence and Network Analysis." Richmond, WA
+* October 2012 - Sloan Fungal ITS meeting, "Greengenes." Boulder, CO, USA 
 
-* Nov. 2006  - Rocky Mountain Bioinformatics Conference, "The fraction of activating and inhibiting connections controls the dynamics of biological networks." Aspen, CO
+* June 2012 - NESCent Next Generation Sequencing Workshop, "From taxonomy to metagenomic prediction." Durham, NC, USA 
+
+* July 2011 - Workshop on Comparative Genomics, "Testing, PyCogent scripting and work with Greengenes." Fort Collins, CO, USA 
+
+* November 2010 - PyCogent and QIIME workshop, "PyCogent Scripting By Example, Operational Taxonomic Units and N-Level Taxonomy  Discussion of OTUs and a Project Leveraging PyCogent." Singapore National University, Singapore 
+
+* March 2010 - Pacific Northwest National Labs, "Adventures in Sequence and Network Analysis." Richmond, WA, USA 
+
+* December 2006. - Rocky Mountain Bioinformatics Conference, "The fraction of activating and inhibiting connections controls the dynamics of biological networks." Aspen, CO, USA 

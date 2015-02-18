@@ -9,24 +9,32 @@ Outreach and training in the biological sciences is critical as the volume of da
 
 ## Instructor
 
-* Feb. 2014 – NERC Workshop on Population and Metagenomics, Totnes, United Kingdom.
+* January 2015 - Český Krumlov, Czech Republic, "Workshop on Genomics." Director: Dr. Scott Handley 
 
-* Feb. 2014 – QIIME Workshop, Washington University, St. Louis, MO.
+* September 2014 - Boston, MA, USA, "Harvard University CFAR Workshop on Metagenomics and Transcriptomics." Director: Dr. Scott Handley 
 
-* Jan. 2014 -- Workshop on Genomics, Český Krumlov, Czech Republic, Workshop Director: Dr. Scott Handley
+* August 2014 - Seoul, Korea, "ISME15 QIIME Workshop." Director: Dr. Greg Caporaso 
 
-* Jan. 2013 – Workshop on Genomics, Český Krumlov, Czech Republic. Workshop Director: Dr. Scott Handley
+* February 2014 - Totnes, United Kingdom, "NERC Workshop on Population and Metagenomics." Director: Dr. Konrad Paszkiewicz 
 
-* Aug. 2012 – ISME 14 QIIME and MG-RAST Workshop, Copenhagen, Denmark. Workshop Director: Dr. Greg Caporaso
+* February 2014 - Washington University, St. Louis, MO, USA, "QIIME Workshop." Director: Dr. Scott Handley 
 
-* Jun. 2012 – NESCent, Next Generation Sequencing Worksop. Durham, North Carolina. Workshop Director: Dr. Alexie Papanicolaou
+* January 2014 - Český Krumlov, Czech Republic, "Workshop on Genomics." Director: Dr. Scott Handley 
 
-* Jan. 2012 – Advanced topics, Workshop on Genomics, Český Krumlov, Czech Republic. Workshop Director: Dr. Scott Handley
+* May 2013 - American Society for Microbiology, Denver, CO, "QIIME Workshop." Director: Dr. Greg Caporaso 
 
-* Jan. 2012 – Workshop on Genomics, Český Krumlov, Czech Republic. Workshop Director: Dr. Scott Handley
+* January 2013 - Český Krumlov, Czech Republic., "Workshop on Genomics." Director: Dr. Scott Handley 
+
+* August 2012 - Copenhagen, Denmark, "ISME 14 QIIME and MG-RAST Workshop." Director: Dr. Greg Caporaso 
+
+* June 2012 - Durham, NC, USA, "NESCent, Next Generation Sequencing Workshop." Director: Dr. Alexie Papanicolaou 
+
+* January 2012 - Český Krumlov, Czech Republic, "Advanced topics, Workshop on Genomics." Director: Dr. Scott Handley 
+
+* January 2012 - Český Krumlov, Czech Republic, "Workshop on Genomics." Director: Dr. Scott Handley 
 
 ## Teaching assistant
 
-* Aug. 2011 – Strategies and Techniques for AnalyzingMicrobial Population. Structures, Marine Biology Laboratories. Woods Hole, MA.
+* August 2011 - Marine Biology Laboratories. Woods Hole, MA, USA, "Strategies and Techniques for Analyzing Microbial Population Structures." Director: Dr. Mitch Sogin 
 
-* Jul. 2011 – Workshop on Genomics, Fort Collins, Colorado.
+* July 2011 - Fort Collins, CO, USA, "Workshop on Comparative Genomics." Director: Dr. Scott Handley 
