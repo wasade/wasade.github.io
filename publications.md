@@ -7,11 +7,11 @@ group : navigation
 
 ## Refereed publications
 
-* McDonald D, Xu Z, Hyde ER, Knight R. (2015) Ribosomal RNA, the lens into life. RNA, submitted
+* Mandal S, Godfre KM, McDonald D, Treuren WV, Bjørnholt JV, Midtvedt T, Moen B, Rudi K, Knight R, Peddada SD, Brantsaeter AL, Eggesbø M. (2015) Intake of specific fats and vitamins during pregnancy is associated with a pro-inflammatory maternal gut microbiota. Microbial Ecology in Health and Disease (in press)
 
-* Mandal S, Midtvedt T, Godfrey KM, Moen B, McDonald D, Treuren WV, Rudi K, Bjørnholt JV, Knight R, Peddada SD, Eggesbø M. (2015) “Intake of fat and some fat-soluble vitamins during pregnancy is associated with a pro-inflammatory maternal gut microbiota at delivery.” PNAS, submitted.
+* Bokulich NA, Rideout JR, Kopylova E, Bolyen E, Patnode J, Ellett Z, McDonald D, Wolfe B, Maurice CF, Dutton RJ, Turnbaugh PJ, Knight R, Caporaso JG. (2015) A standardized, extensible framework for optimizing classification improves marker-gene taxonomic assignments. Microbiome (in review)
 
-* McDonald D, Hornig M, Lozupone C, Debelius J, Gilbert JA, Knight R. (2015) "Towards large-cohort comparative studies to define the factors influencing the gut microbial community structure of ASD patients." Microbial Ecology in Health and Disease, in press
+* McDonald D, Hornig M, Lozupone C, Debelius J, Gilbert JA, Knight R. (2015) "Towards large-cohort comparative studies to define the factors influencing the gut microbial community structure of ASD patients." Microbial Ecology in Health and Disease 26:26555 PMID: [25758371](http://www.ncbi.nlm.nih.gov/pubmed/25758371) 
 
 * Huttenhower C, Knight R, Brown CT, Caporaso JG, Clemente JC, Gevers D, Franzosa EA, Kelley ST, Knights D, Ley RE, Mahurkar A, Ravel J, The Scientists for Advancement of Microbiome Research\*, White O. (2014) “Advancing the Microbiome Research Community.” Cell 159(2):227–230 PMID: [25303518](http://www.ncbi.nlm.nih.gov/pubmed/25303518) \*signee of the scientists for advancement of microbiome
 
@@ -37,7 +37,7 @@ group : navigation
 
 * Harris JK\*, Caporaso JG\*, Walker JJ, Spear JR, Gold NJ, Robertson CE, Hugenholtz P, Goodrich J, McDonald D, Knights D, Marshall P, Tufo H, Knight R, Pace NR. (2012). “Phylogenetic stratigraphy in the Guerrero Negro hypersaline microbial mat.” ISME Journal Epub Jul 26. PMID: [22832344](http://www.ncbi.nlm.nih.gov/pubmed/22832344) \*these authors contributed equally
 
-* Human Microbiome Project Consortium. (2012). "Structure, Function and Diversity of the Human Microbiome in an Adult Reference Population?" Nature 486(7402):207-214. PMID: [22699609](http://www.ncbi.nlm.nih.gov/pubmed/22699609) 
+* Human Microbiome Project Consortium. (2012). "Structure, Function and Diversity of the Human Microbiome in an Adult Reference Population." Nature 486(7402):207-214. PMID: [22699609](http://www.ncbi.nlm.nih.gov/pubmed/22699609) 
 
 * Human Microbiome Project Consortium. (2012). "A framework for human microbiome research." Nature 486(7402):215-221. PMID: [22699610](http://www.ncbi.nlm.nih.gov/pubmed/22699610) 
 
@@ -45,9 +45,9 @@ group : navigation
 
 * Fierer N, Ferrenberg S, Flores GE, González A, Kueneman J, Legg T, Lynch RC, McDonald D, Mihaljevic JR, O’Neill SP, Rhodes ME, Song S, Walters WA. (2012). “From Animalcules to an Ecosystem: Application of Ecological Concepts to the Human Microbiome.” Annual Review of Ecology, Evolution and Systematics Vol. 43 pp137-155 DOI: 10.1146/annurev-ecolsys-110411-160307
 
-* Almodovar S, Knight R, Allshouse A, Roemer S, Lozupone C, McDonald D, Widmann J, Voelkel NF, Shelton RJ, Suarez EB, Hammer KW, Goujard C, Petrosillo N, Simonneau G, Hsue PY, Humbert M, Flores SC. “Human Immunodeficiency Virus nef Signature Sequences are Associated with Pulmonary Hypertension.” AIDS Research and Human Retroviruses Jun;28(6):607-18. PMID: [22066947](http://www.ncbi.nlm.nih.gov/pubmed/22066947) 
+* Almodovar S, Knight R, Allshouse A, Roemer S, Lozupone C, McDonald D, Widmann J, Voelkel NF, Shelton RJ, Suarez EB, Hammer KW, Goujard C, Petrosillo N, Simonneau G, Hsue PY, Humbert M, Flores SC. (2012). “Human Immunodeficiency Virus nef Signature Sequences are Associated with Pulmonary Hypertension.” AIDS Research and Human Retroviruses Jun;28(6):607-18. PMID: [22066947](http://www.ncbi.nlm.nih.gov/pubmed/22066947) 
 
-* McDonald D, Price M, Goodrich J, Nawrocki E, DeSantis T, Anderson G, Eddy S, Arkin A, Knight R, Hugenholtz P. (2011). “An improved greengenes taxonomy for bacteria and archaea with explicit ranks.” ISME Journal Mar;6(3):610-8. PMID: [22134646](http://www.ncbi.nlm.nih.gov/pubmed/22134646) 
+* McDonald D, Price M, Goodrich J, Nawrocki E, DeSantis T, Anderson G, Eddy S, Arkin A, Knight R, Hugenholtz P. (2012). “An improved greengenes taxonomy for bacteria and archaea with explicit ranks.” ISME Journal Mar;6(3):610-8. PMID: [22134646](http://www.ncbi.nlm.nih.gov/pubmed/22134646) 
 
 * Stombaugh J, Widmann J, McDonald D, Knight R. (2011). “Boulder ALignment Editor (ALE): a web-based RNA alignment tool.” Bioinformatics 27(12):1706-7. PMID: [21546392](http://www.ncbi.nlm.nih.gov/pubmed/21546392) 
 
@@ -72,3 +72,5 @@ group : navigation
 ## Non-refereed publications
 
 * Knight R and McDonald D. “Our Second Genome”. Imagine Sept/Oct 2013: 26-29
+
+* McDonald D, Xu Z, Hyde ER, Knight R. (2015) Ribosomal RNA, the lens into life. RNA 21(4):692-4. PMID: [25780194](http://www.ncbi.nlm.nih.gov/pubmed/25780194) 

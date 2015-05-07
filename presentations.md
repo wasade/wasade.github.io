@@ -5,11 +5,15 @@ group : navigation
 ---
 {% include JB/setup %}
 
+* April 2015 - Bioinformatics Supergroup, "Analysis of the American Gut." Boulder, CO USA 
+
+* March 2015 - Plenary, Gut Microbiome for Health World Summit, "The American Gut Project (invited)." Barcelona, Spain 
+
 * January 2015 - Seminar, Masaryk University, "Processing and analysis of the American Gut (invited)." Brno, Czech Republic 
 
 * January 2015 - Pacific Symposium on Biocomputing, "Including the Public in Research Projects, discussion (invited)." Kona, HI, USA 
 
-* November 2014 - Seminar, Institute of Systems Biology, "The American Gut (invited)." Seattle, WA, USA 
+* November 2014 - Seminar, Institute of Systems Biology, "The American Gut." Seattle, WA, USA 
 
 * October 2014 - Recent Advances in OMICS Research and Dissemination Conference of the OMICRON Project, "The American Gut (invited)." Kraków, Poland 
 
