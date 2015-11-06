@@ -5,6 +5,14 @@ group : navigation
 ---
 {% include JB/setup %}
 
+* June 2015 - American Society for Clinical Psychopharmacology, "The American Gut." Miami, FL USA 
+
+* June 2015 - Shock Society Conference, "The ICU Microbiome Project: a multicenter trial." Denver, CO USA 
+
+* May 2015 - Microbiome RIP seminar, Anschutz Medical Center, "The American Gut Project (invited)." Aurora, CO USA 
+
+* May 2015 - Fairview High School (Dr. Strode’s class), "Microbiome lecture." Boulder, CO USA 
+
 * April 2015 - Bioinformatics Supergroup, "Analysis of the American Gut." Boulder, CO USA 
 
 * March 2015 - Plenary, Gut Microbiome for Health World Summit, "The American Gut Project (invited)." Barcelona, Spain 

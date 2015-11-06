@@ -7,6 +7,12 @@ group : navigation
 
 ## Refereed publications
 
+* McDonald D, Birmingham A, Knight R. (2015) Context, and the human microbiome. Microbiome (in press)
+
+* Debelius JW, Vázquez-Baeza Y, McDonald D, Zhenjiang X, Wolfe E, and Knight R. (2015) Turning Participatory Microbiome Research into Usable Data: Lessons from the American Gut Project. JMBE (in press)
+
+* Fouquier J, Rideout JR, Bolyen E, Chase J, Shiffer A, McDonald D, Knight R, Caporaso JG, and Kelley ST. (2015) ghost-tree: creating hybrid-gene phylogenetic trees for diversity analyses. Microbiome (submitted)
+
 * Mandal S, Godfre KM, McDonald D, Treuren WV, Bjørnholt JV, Midtvedt T, Moen B, Rudi K, Knight R, Peddada SD, Brantsaeter AL, Eggesbø M. (2015) Intake of specific fats and vitamins during pregnancy is associated with a pro-inflammatory maternal gut microbiota. Microbial Ecology in Health and Disease (in press)
 
 * Bokulich NA, Rideout JR, Kopylova E, Bolyen E, Patnode J, Ellett Z, McDonald D, Wolfe B, Maurice CF, Dutton RJ, Turnbaugh PJ, Knight R, Caporaso JG. (2015) A standardized, extensible framework for optimizing classification improves marker-gene taxonomic assignments. Microbiome (in review)
