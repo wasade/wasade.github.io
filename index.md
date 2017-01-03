@@ -12,7 +12,7 @@ To do this, I work with an international group of researchers on the design of n
 of analytical software. As a developer, researcher and educator, I am firmly committed to open source licenses, open
 access projects, and outreach both within and external to the scientific community.
 
-I am long running member of the [Knight Lab](https://knightlab.ucsd.edu/), a former project manager for the [American Gut Project](http://americangut.org), a researcher deeply involved in the [Earth Microbiome Project](http://www.earthmicrobiome.org), and my poop can be found [here](assets/img/000004216.pdf) (following a _lot_ of thai chilis, because, science).
+I am long running member of the [Knight Lab](https://knightlab.ucsd.edu/), a former project manager for the [American Gut Project](http://americangut.org), a researcher deeply involved in the [Earth Microbiome Project](http://www.earthmicrobiome.org), and my poop can be found [here](assets/img/000004216.pdf) (following a lot of thai chilis, because, science).
 
 - Github: [@wasade](http://github.com/wasade)
 - Email: [daniel.mcdonald@colorado.edu](mailto:daniel.mcdonald@colorado.edu)
