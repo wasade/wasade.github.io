@@ -5,6 +5,14 @@ group : navigation
 ---
 {% include JB/setup %}
 
+* December 2016 - Australian National University, "Microbiome datasets at scale." Canberra, AU 
+
+* September 2016 - London Microbiome Meeting, "QIIME." London, UK 
+
+* May 2016 - Department of Twins Research, King’s College, "Poop at a global scale: observations from the American Gut Project." London, UK 
+
+* March 2016 - INDICASAT, "The future of human microbiome studies and meta-analyses: The American Gut." Panama City, Panama 
+
 * June 2015 - American Society for Clinical Psychopharmacology, "The American Gut." Miami, FL USA 
 
 * June 2015 - Shock Society Conference, "The ICU Microbiome Project: a multicenter trial." Denver, CO USA 

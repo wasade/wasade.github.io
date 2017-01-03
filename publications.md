@@ -7,15 +7,25 @@ group : navigation
 
 ## Refereed publications
 
-* McDonald D, Birmingham A, Knight R. (2015) Context, and the human microbiome. Microbiome (in press)
+* Amir A\*, McDonald D\*, Navas-Molina JA, Kopylova E, Morton J, Xu Z, Kightley EP, Thompson LR, Hyde ER, Gonzalez A, Knight R. (2016) Deblur rapidly resolves single-nucleotide community sequence patterns. mSystems (in press)
 
-* Debelius JW, Vázquez-Baeza Y, McDonald D, Zhenjiang X, Wolfe E, and Knight R. (2015) Turning Participatory Microbiome Research into Usable Data: Lessons from the American Gut Project. JMBE (in press)
+* Halfvarson J, Brislawn CJ, Lamendella R, Vázquez-Baeza Y, Walters WA, Bramer LM, D’Amato M, Bonfiglio F, McDonald D, Gonzalez A, McClure EE, Dunklebarger MF, Knight R, Jansson JK. (2016). Dynamics of the human gut microbiome in Inflammatory Bowel Disease. Nature Microbiology. (in press).
 
-* Fouquier J, Rideout JR, Bolyen E, Chase J, Shiffer A, McDonald D, Knight R, Caporaso JG, and Kelley ST. (2015) ghost-tree: creating hybrid-gene phylogenetic trees for diversity analyses. Microbiome (submitted)
+* McDonald D, Ackermann G, Khailova L, Baird C, Heyland D, Kozar R, Lemieux M, Derenski K, King J, Vis-Kampen C, Knight R, Wischmeyer PE. (2016) Extreme Dysbiosis of the Microbiome in Critical Illness. mSphere 1(4):e00199-16. DOI: 10.1128/mSphere.00199-16
 
-* Mandal S, Godfre KM, McDonald D, Treuren WV, Bjørnholt JV, Midtvedt T, Moen B, Rudi K, Knight R, Peddada SD, Brantsaeter AL, Eggesbø M. (2015) Intake of specific fats and vitamins during pregnancy is associated with a pro-inflammatory maternal gut microbiota. Microbial Ecology in Health and Disease (in press)
+* Debelius JW\*, McDonald D\*, Ackermann G, Dunn RR, Fahimpour AK, Gaffney J, Gilbert JA, Green JL, Gonzalez A, Gogul G, Hugenholtz P, Humphrey G, Huttenhower C, Hyde E, Jackson MA, Kelley ST, Knights D, Ladau J, Leach J, Metcalf JL, Morgan XC, Morton JT, Navas-Molina J, Montassier E, Rahnavard G, Robbins-Pianka A, Pollard KS, Sangwan N, Shorenstein J, Spector T, Thompson LR, Thackray VG, Wischmeyer P, Wolfe E, Vazquez-Baeza Y, The American Gut Consortium, Knight R. (2016) American Gut: an Open Platform for Citizen-Science Microbiome Research (submitted) \*These authors contributed equally
 
-* Bokulich NA, Rideout JR, Kopylova E, Bolyen E, Patnode J, Ellett Z, McDonald D, Wolfe B, Maurice CF, Dutton RJ, Turnbaugh PJ, Knight R, Caporaso JG. (2015) A standardized, extensible framework for optimizing classification improves marker-gene taxonomic assignments. Microbiome (in review)
+* Gonzalez A, Vazquez-Baeza Y, Pettengill J, Ottesen A, McDonald D, Knight R. (2016) Avoiding pandemic fears in the subway and conquering the platypus. mSystems (in press)
+
+* McDonald D, Birmingham A, Knight R. (2015) Context, and the human microbiome. Microbiome 3:52 PMID: [26530830](http://www.ncbi.nlm.nih.gov/pubmed/26530830) 
+
+* Debelius JW, Vázquez-Baeza Y, McDonald D, Zhenjiang X, Wolfe E, and Knight R. (2016) Turning Participatory Microbiome Research into Usable Data: Lessons from the American Gut Project. Journal of Microbiology and Biology Education 17(1):46-50 PMID: [27047589](http://www.ncbi.nlm.nih.gov/pubmed/27047589) 
+
+* Fouquier J, Rideout JR, Bolyen E, Chase J, Shiffer A, McDonald D, Knight R, Caporaso JG, and Kelley ST. (2016) ghost-tree: creating hybrid-gene phylogenetic trees for diversity analyses. Microbiome 4(1):11 PMID: [26905735](http://www.ncbi.nlm.nih.gov/pubmed/26905735) 
+
+* Mandal S, Godfre KM, McDonald D, Treuren WV, Bjørnholt JV, Midtvedt T, Moen B, Rudi K, Knight R, Peddada SD, Brantsaeter AL, Eggesbø M. (2015) Intake of specific fats and vitamins during pregnancy is associated with a pro-inflammatory maternal gut microbiota. Microbial Ecology in Health and Disease (submitted)
+
+* Bokulich NA, Rideout JR, Kopylova E, Bolyen E, Patnode J, Ellett Z, McDonald D, Wolfe B, Maurice CF, Dutton RJ, Turnbaugh PJ, Knight R, Caporaso JG. (2015) A standardized, extensible framework for optimizing classification improves marker-gene taxonomic assignments. Microbiome (submitted)
 
 * McDonald D, Hornig M, Lozupone C, Debelius J, Gilbert JA, Knight R. (2015) "Towards large-cohort comparative studies to define the factors influencing the gut microbial community structure of ASD patients." Microbial Ecology in Health and Disease 26:26555 PMID: [25758371](http://www.ncbi.nlm.nih.gov/pubmed/25758371) 
 
@@ -77,6 +87,10 @@ group : navigation
 
 ## Non-refereed publications
 
-* Knight R and McDonald D. “Our Second Genome”. Imagine Sept/Oct 2013: 26-29
+* Wischmeyer P, McDonald D, Knight R. (2016) Role of the microbiome, probiotics, and ‘dysbiosis therapy’ in critical illness. Current Opinion Critical Care. PMID: [27327243](http://www.ncbi.nlm.nih.gov/pubmed/27327243) 
+
+* McDonald D, Glusman G, Price N. (2016) From digital medicine to personalized nutrition. Nature Biotechnology 34(2):152-4 PMID: [26849520](http://www.ncbi.nlm.nih.gov/pubmed/26849520) 
 
 * McDonald D, Xu Z, Hyde ER, Knight R. (2015) Ribosomal RNA, the lens into life. RNA 21(4):692-4. PMID: [25780194](http://www.ncbi.nlm.nih.gov/pubmed/25780194) 
+
+* Knight R and McDonald D. “Our Second Genome”. Imagine Sept/Oct 2013: 26-29
