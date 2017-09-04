@@ -7,6 +7,14 @@ group : navigation
 
 ## Refereed publications
 
+* RNACentral Consortium. (2017) RNAcentral: a comprehensive database of non-coding RNA sequences. Nucleic Acids Research. 45 (D1): D128-D134.
+
+* Vázquez-Baeza Y, Gonzalez A, Smarr L, McDonald D, Morton JT, Navas-Molina JA, Knight R. (2017). Bringing the Dynamic Microbiome to Life with Animations. Cell Host and Microbe 21(1) 7-10
+
+* Morton JT, Sanders J, Quinn RA, McDonald D, Gonzalez A, Vázquez-Baeza Y, Navas-Molina JA, Song SJ, Metcalf JL, Hyde ER, Lladser M, Dorrestein PC, Knight R. (2017) Balance trees reveal microbial niche differentiation. mSystems January 2017
+
+* Knight R, Callewaert C, Marotz C, Hyde ER, Debelius JW, McDonald D, Sogin ML. (2017) The Microbiome and Human Biology. Annual Review of Genomics and Human Genetics 18
+
 * Amir A\*, McDonald D\*, Navas-Molina JA, Kopylova E, Morton J, Xu Z, Kightley EP, Thompson LR, Hyde ER, Gonzalez A, Knight R. (2016) Deblur rapidly resolves single-nucleotide community sequence patterns. mSystems (in press)
 
 * Halfvarson J, Brislawn CJ, Lamendella R, Vázquez-Baeza Y, Walters WA, Bramer LM, D’Amato M, Bonfiglio F, McDonald D, Gonzalez A, McClure EE, Dunklebarger MF, Knight R, Jansson JK. (2016). Dynamics of the human gut microbiome in Inflammatory Bowel Disease. Nature Microbiology. (in press).

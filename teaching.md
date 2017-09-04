@@ -9,6 +9,8 @@ Outreach and training in the biological sciences is critical as the volume of da
 
 ## Instructor
 
+* January 2017 - Český Krumlov, Czech Republic, "Workshop on Genomics." Director: Dr. Scott Handley 
+
 * September 2016 - London, UK, "London Microbiome Workshop." Director: Dr. Tim Spector 
 
 * March 2016 - City of Knowledge, Panama City, Panama, "INDICASAT; Metagenomics: High Throughput Analysis of Microbiomes." Director: Dr. Luis Meija 
